@@ -1,5 +1,5 @@
 /*
- * ResearchL
+ * Research
  * 
  * Methods to connect via bluetooth:
  * http://www.aviyehuda.com/blog/2010/01/08/connecting-to-bluetooth-devices-with-java/
