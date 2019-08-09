@@ -1,2 +1,2 @@
-# FindMyGlasses
-Software to be used for FindMyGlasses
+# JavaBluetooth
+A Bluetooth experiment using Java
